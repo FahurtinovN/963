@@ -1,0 +1,13 @@
+body{
+    background-color: #0000FF;
+}
+input[type=text], input[type=password] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 850px 0;
+    display: inline-block;
+    border: 1px solid #0000FF;
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-left: 720px;
+}
